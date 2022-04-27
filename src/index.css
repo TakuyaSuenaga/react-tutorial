@@ -33,6 +33,10 @@ ul {
     width: 34px;
 }
 
+.square.highlight {
+    background: #dd0;
+}
+
 .square:focus {
     outline: none;
 }
